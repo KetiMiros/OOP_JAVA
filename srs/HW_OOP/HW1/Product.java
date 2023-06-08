@@ -1,3 +1,4 @@
+package HW_OOP.HW1;
 // package HW_OOP.HW1;
 
 public class Product {
